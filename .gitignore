@@ -1,4 +1,5 @@
 to_ignore.txt
+to_ignore_2.txt
 
 log/*.log
 log/*.log.[0-9]
