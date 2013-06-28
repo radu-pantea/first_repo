@@ -1,1 +1,1 @@
-New feature file.
+New feature file modified for merging.
