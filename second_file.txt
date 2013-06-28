@@ -1,1 +1,1 @@
-This is the second file with modifications.
+This is the second file with modifications before merge.
